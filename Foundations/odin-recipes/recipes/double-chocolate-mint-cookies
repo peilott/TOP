@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Double Chocolate Mint Cookies</title>
+</head>
+<body>
+    <h1>Double Chocolate Mint Cookies</h1>
+    <img src="../img/double-chocolate-mint-cookies.webp" style="width:450px;height:auto;">
+    <h2>Description</h2>
+    <p>
+        This is a simple cookie that my family loves.
+    </p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 1/2 cups butter, softened</li>
+        <li>4 cups white sugar</li>
+        <li>4 eggs</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>1 teaspoon pepperment extract</li>
+        <li>4 cups all-purpose flour</li>
+        <li>1 1/2 cups unsweetened cocoa powder</li>
+        <li>2 teaspoons baking soda</li>
+        <li>1 teaspoon salt</li>
+        <li>2 cups semisweet chocolate chips</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Preheat oven to 350 degrees F</li>
+        <li>Cream together butter, sugar, and eggs. Mix in remaining ingredients. Blend well.</li>
+        <li>Drop by teaspoonful onto a cookie sheet. Bake at 350 degrees F for 8-9 minutes.
+            Cookies will be soft. Cool about 1 minute on cookie sheet, then remove to a wire
+            rack to cool completely.
+        </li>
+        <li>Recipe Variation: For a different flavor, omit peppermint extract and use a total
+            of 2 teaspoons of vanilla. Also substitute peanut butter flavored chips for the
+            chocolate chips.
+        </li>
+    </ol>
+    <a href="../index.html">back</a>
+</body>
+</html>
